@@ -10,7 +10,7 @@ This project is for educational porpuses only. Pull request are welcome, but pri
 
 Site published at: https://baubasdrsk.github.io/05-Astronautas-savarankiskai/
 
-Design: [Astronautas]https://dribbble.com/shots/5964475/attachments/5964475-404-Lost-in-Space?mode=media)
+Design: [Astronautas](https://dribbble.com/shots/5964475/attachments/5964475-404-Lost-in-Space?mode=media)
 ![Astronautas](https://cdn.dribbble.com/users/1355613/screenshots/5964475/space.gif)
 
 ## 🎯 Project features/goals
